@@ -2,22 +2,22 @@
 
 to start the project:
 
-avec git bash:
+with git bash:
 ```python
 source .venv/Scripts/activate
 ```
 
-avec un autre terminal:
+with an another terminal:
 ```python
 .venv/Scripts/activate
 ```
 
-on install les dépendances:
+install dependencies:
 ```python
 pip install -r requirements.txt
 ```
 
-on lance le script
+start the project
 ```python
 python main.py
 ```
